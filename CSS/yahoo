@@ -1,0 +1,14 @@
+* {box-sizing: border-box; }
+body {width: 1280px; margin-left:300px;}
+a {color: rgb(15, 15, 153);}
+a:hover {color: #7018c2; transition-duration: 2s;}
+.menu-top {width:680px;}
+.main {width: 600px;}
+.category {width: 100%;}
+.populer-search {width: 100%;}
+.populer-search .populer-srarch-span{font-size:9pt;color:#555555;}
+.color-box {width: 100%;}
+.color-box .color-box-yellow { background-color: #FFFF99; width: 100px; height: 20px;}
+.color-box .color-box-blue { background-color: #99CCFF;}
+
+.right-colorbox-yellow { background-color: #FFFF99; width: 140px;}
